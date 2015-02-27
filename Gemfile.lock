@@ -65,6 +65,8 @@ GEM
       redis
       redis-namespace
       ruboty
+    ruboty-reminder (0.2.0)
+      ruboty
     ruboty-scorekeeper (0.0.2)
       ruboty
     ruboty-slack (0.1.7)
@@ -92,6 +94,7 @@ DEPENDENCIES
   ruboty-kokodeikku
   ruboty-lgtm
   ruboty-redis
+  ruboty-reminder
   ruboty-scorekeeper
   ruboty-slack
   ruboty-talk
