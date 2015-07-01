@@ -13,4 +13,6 @@ gem "ruboty-hitozuma"
 gem "ruboty-scorekeeper"
 gem "ruboty-lgtm"
 gem "ruboty-kokodeikku"
-gem 'ruboty-misawa', github: 'mzp/ruboty-misawa'
+# FIXME
+# This gemspec includes TODO description
+# gem 'ruboty-misawa', github: 'mzp/ruboty-misawa'
