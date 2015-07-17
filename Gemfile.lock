@@ -74,7 +74,7 @@ GEM
       ruboty
     ruboty-scorekeeper (0.0.2)
       ruboty
-    ruboty-slack (0.1.12)
+    ruboty-slack (0.1.11)
       ruboty (>= 1.0.4)
       xrc (>= 0.1.8)
     ruboty-talk (0.0.4)
